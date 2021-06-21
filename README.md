@@ -6,7 +6,9 @@ Steve loves the workbook I prepared for him. At the click of a button, he can an
 Refactoring is a key part of the coding process. When refactoring code, I am not adding new functionality; I just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. In this challenge, I will refactor the code from the original notebook to loop through all the data only once to collect the same information. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
 
 ## Results
-	*insert the two excel tables* 
+
+<img width="237" alt="Screen Shot 2021-06-21 at 6 04 07 PM" src="https://user-images.githubusercontent.com/74915619/122833583-38e23c00-d2bb-11eb-90f5-f30e6b1c187a.png">
+<img width="244" alt="Screen Shot 2021-06-21 at 6 04 32 PM" src="https://user-images.githubusercontent.com/74915619/122833608-44356780-d2bb-11eb-9eea-11cb720eaf0a.png">
 
 The stock market changes constantly for various reasons, ranging from supply and demand standards at the time, to housing costs to the cost of living. As you can see above, in 2017, all but one stock performed very well and made profits. However, in 2018, all but two companies performed poorly and had negative returns. Although this may seem shocking, it is not. This is a very niche market and with the stock market being so volatile, this is to be expected. Another parameter we can look at is the Total Daily Volume. If you look at those numbers, you can see the number of trades in each year, for each stock. To make sure the conclusions we come up with using the data are correct, we need to look at large amounts of data to have a good enough dataset to work with. We can conclude that the more the stocks are trading (total daily volume), the higher the value of the stock. 
 
