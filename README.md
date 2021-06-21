@@ -1,6 +1,6 @@
 # Stocks_Analysis
 
-##Overview
+## Overview
 
 Steve loves the workbook I prepared for him. At the click of a button, he can analyze an entire dataset. He wants to take this a step further by expanding the dataset to include the entire stock market over the last few years. Although the code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute. 
 Refactoring is a key part of the coding process. When refactoring code, I am not adding new functionality; I just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. In this challenge, I will refactor the code from the original notebook to loop through all the data only once to collect the same information. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
